@@ -4,7 +4,7 @@
 <!--**mvtenorios/mvtenorios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - 🌱 I’m currently learning about: HTML5, CSS3, JavaScript, NodeJS, Angular, ReactJS.
-- 👯 I like to connect with people to contribute and gain new personal and professional experiences.
+- 👬 I like to connect with people to contribute and gain new personal and professional experiences.
 - ⚡ Fun fact: I'm a saxophonist too 🎷
 
 <h2 align="center">My Contact</h2>
